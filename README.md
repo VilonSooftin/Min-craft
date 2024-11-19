@@ -42,3 +42,18 @@ Fast Ladder 『 Bypass Spartan, Horizon 』
 
 Holograms 『 Allows you to create your own holograms 』
 
+
+PvP Functionality:
+
+
+AntiBot『 Antibot for KillAura+, KillAura, TriggerBot』
+
+
+Teams『Does not hit teammates in BedWars and other modes』
+
+
+KillAura+『Old LiquidBounce Aura』
+
+
+Speed+『Gloomy Bypass』
+
